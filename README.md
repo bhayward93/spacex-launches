@@ -9,6 +9,12 @@ Quick speed coding project to gain some exposure to Django and Angulars upcoming
 
 # Installation
 
+To clone, please remember to clone all submodules recursively.
+
+```
+git clone --recursive git@github.com:bhayward93/spacex-launches.git
+```
+
 ## Front
 
 ### Installation
