@@ -1,0 +1,6 @@
+[submodule "spacex-launches-front"]
+	path = spacex-launches-front
+	url = https://github.com/bhayward93/spacex-launches-front
+[submodule "spacex-launches-server"]
+	path = spacex-launches-server
+	url = https://github.com/bhayward93/spacex-launches-server
